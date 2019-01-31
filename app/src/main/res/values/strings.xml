@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FirebaseSignIn</string>
+    <string name="userEmail">Email:%s</string>
+    <string name="default_web_client_id">AIzaSyA3Iy4YLNLFLsdjwZSgsmERBx6J700MEDs</string>
 </resources>
